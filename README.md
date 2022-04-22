@@ -1,1 +1,2 @@
-# GD22_PJ2
+# NCCU_GD22
+GD22_TeamProject2
